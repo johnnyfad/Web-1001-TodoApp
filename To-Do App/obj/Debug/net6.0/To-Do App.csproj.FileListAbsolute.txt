@@ -1,0 +1,31 @@
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\appsettings.json
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.staticwebassets.runtime.json
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.exe
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.deps.json
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.runtimeconfig.json
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.dll
+C:\Users\John\source\repos\To-Do App\To-Do App\bin\Debug\net6.0\To-Do App.pdb
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.AssemblyInfo.cs
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.RazorAssemblyInfo.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.RazorAssemblyInfo.cs
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets\msbuild.To-Do App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do App.props
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do App.props
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do App.props
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\scopedcss\bundle\To-Do App.styles.css
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\scopedcss\projectbundle\To-Do App.bundle.scp.css
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.dll
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\refint\To-Do App.dll
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.pdb
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\To-Do App.genruntimeconfig.cache
+C:\Users\John\source\repos\To-Do App\To-Do App\obj\Debug\net6.0\ref\To-Do App.dll
