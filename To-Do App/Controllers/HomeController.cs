@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using To_Do_App.Data;
 using To_Do_App.Models;
 
 namespace To_Do_App.Controllers
@@ -8,13 +9,18 @@ namespace To_Do_App.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        TodoDbContext _todoDbContext;
+
+        public HomeController(ILogger<HomeController> logger, TodoDbContext todoDbContext)
         {
+            _todoDbContext = todoDbContext;
             _logger = logger;
         }
 
         public IActionResult Index()
         {
+            List<Todo> list = _todoDbContext.Todo.Where(c => c.IsCompleted == false).ToList();
+            ViewBag.TodoList = list;
             return View();
         }
 

@@ -1,7 +1,19 @@
+using Microsoft.EntityFrameworkCore;
+using To_Do_App.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<TodoDbContext>(options =>
+{
+    //options.UseSqlServer(@"Server=(localdb)\v11.0; Integrated Security=true; AttachDbFileName=C:\MyData.mdf;");
+    options.UseSqlite($"Data Source=mydb.db;");
+    //options.UseSqlServer(@"Server=(localdb)\v11.0; Integrated Security=true; AttachDbFileName=C:\MyData.mdf;");
+});
+
+
 
 var app = builder.Build();
 
